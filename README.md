@@ -3,7 +3,7 @@ I am a software developer living in Italy and I graduated in Computer Science at
 ## What am I working on? 💻 👷‍♂️
 I am currently doing an internship, where I am able to work on technologies like Go, Python, Scala and also learning some AWS stuff.
 ## Some things that I am learning: 📚 🌱
-- Svelte and SvelteKit
+- HTMX 👀
 - Java
 - Go (for work but also because I like it so much!)
 ## My hobbies and favourites things? ⚡
